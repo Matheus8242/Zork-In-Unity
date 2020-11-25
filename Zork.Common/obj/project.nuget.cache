@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MvoEK1icXMfLhAnVb4FFFQnuaM3P5TGvG8t5OJVvTt7jun3jfmzvFfIeTtzkKnYSbPopAyXTehEcM/uHHIEkOg==",
+  "dgSpecHash": "hZcGqoYrKEmS/y2OyFx0Fs4K5smo5KA9YGMpEouB1IaUiXd26R92vAnTDGR6sNj0x6GL734g69zaufkA03rTvA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Matheus Campos\\Documents\\GitHub\\Zork-Builder\\Zork.Common\\Zork.Common.csproj",
+  "projectFilePath": "C:\\Users\\Matheus Campos\\Documents\\GitHub\\Zork-In-Unity\\Zork.Common\\Zork.Common.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Matheus Campos\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.0.0\\microsoft.codeanalysis.analyzers.3.0.0.nupkg.sha512",
     "C:\\Users\\Matheus Campos\\.nuget\\packages\\microsoft.codeanalysis.common\\3.7.0\\microsoft.codeanalysis.common.3.7.0.nupkg.sha512",

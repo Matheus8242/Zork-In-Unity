@@ -301,11 +301,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Matheus Campos\\Documents\\GitHub\\Zork-Builder\\ZorkBuilder.Data\\ZorkBuilder.Data.csproj",
+      "projectUniqueName": "C:\\Users\\Matheus Campos\\Documents\\GitHub\\Zork-In-Unity\\ZorkBuilder.Data\\ZorkBuilder.Data.csproj",
       "projectName": "ZorkBuilder.Data",
-      "projectPath": "C:\\Users\\Matheus Campos\\Documents\\GitHub\\Zork-Builder\\ZorkBuilder.Data\\ZorkBuilder.Data.csproj",
+      "projectPath": "C:\\Users\\Matheus Campos\\Documents\\GitHub\\Zork-In-Unity\\ZorkBuilder.Data\\ZorkBuilder.Data.csproj",
       "packagesPath": "C:\\Users\\Matheus Campos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Matheus Campos\\Documents\\GitHub\\Zork-Builder\\ZorkBuilder.Data\\obj\\",
+      "outputPath": "C:\\Users\\Matheus Campos\\Documents\\GitHub\\Zork-In-Unity\\ZorkBuilder.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Matheus Campos\\AppData\\Roaming\\NuGet\\NuGet.Config",

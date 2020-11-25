@@ -22,7 +22,7 @@ namespace ZorkBuilder.Data
         {
             foreach(Player player in Player)
             {
-                player.BuildInventoryFromName(Items);
+                player.BuildInventoryFromName(Items); 
             }
         }
     }
